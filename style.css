@@ -60,6 +60,7 @@ h2 {
     letter-spacing: 0.05em;
     font-size: 2.9vw;
     text-align: center;
+    color: #ecf0eb;
 }
 h3 {
     font-family: 'M PLUS 1', sans-serif;
@@ -224,7 +225,7 @@ main ul li, ol li {
 }
 #card13-14 {
   width: 90vw;
-  height: 30Svw;
+  height: 60vw;
   text-align: center;
   border: 1px solid rgb(93, 250, 45);
   background-color: #f5b9f7;
