@@ -83,6 +83,14 @@ h6 {
   text-align: center;
   color: #1a0907;
 }
+h7 {
+  padding-left:   6vw;
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 0.05em;
+  font-size: 2.2vw;
+  text-align: center;
+  color: #f12912;
+}
 /* ヘッダー */
 header {
     width: 100%;
