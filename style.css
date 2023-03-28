@@ -1,12 +1,12 @@
 @charset "UTF-8";
 body {
-  background-color: #f0f2e6;
+  background-color: #ffffff;
   font-family: 'Anton', sans-serif;
   font-family: 'M PLUS 1', sans-serif;
   font-size: 62.5%;
   font-size: 1.9rem;
   letter-spacing: 0.09em;
-  color: #ebefe8e8;
+  color: #ffffffe8;
   margin-right:  3vw;
   margin-left:   3vw;
   margin-top: 6.5vw;
@@ -53,14 +53,14 @@ h1 {
     letter-spacing: 0.05em;
     font-size: 3.2vw;
     text-align: center;
-    color: #09ff00;
+    color: #051205;
 }
 h2 {
     font-family: 'M PLUS 1', sans-serif;
     letter-spacing: 0.05em;
     font-size: 2.9vw;
     text-align: center;
-    color: #ecf0eb;
+    color: #0d120c;
 }
 h3 {
     font-family: 'M PLUS 1', sans-serif;
