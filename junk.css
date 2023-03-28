@@ -1,12 +1,12 @@
 @charset "UTF-8";
 body {
-  background-color: #f8facb;
+  background-color: #fcfcfc;
   font-family: 'Anton', sans-serif;
   font-family: 'M PLUS 1', sans-serif;
   font-size: 62.5%;
   font-size: 1.9rem;
   letter-spacing: 0.09em;
-  color: #f7f6bce8;
+  color: #ffffffe8;
   margin-right:  3vw;
   margin-left:   3vw;
   margin-top: 6.5vw;
@@ -87,7 +87,7 @@ h7 {
   padding-left:   6vw;
   font-family: 'Anton', sans-serif;
   letter-spacing: 0.05em;
-  font-size: 2.0vw;
+  font-size: 2.2vw;
   text-align: center;
   color: #f12912;
 }
